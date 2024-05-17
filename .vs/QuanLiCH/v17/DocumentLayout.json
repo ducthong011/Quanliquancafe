@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\21CT114\\QuanLiCHCofee\\QuanLiCH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2182E8-8D26-4472-BB89-75F0F3F016F7}|QuanLiCH\\QLCoffeenew.csproj|c:\\users\\pc\\onedrive\\ta\u0300i li\u00EA\u0323u\\21ct114\\quanlichcofee\\quanlich\\quanlich\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A2182E8-8D26-4472-BB89-75F0F3F016F7}|QuanLiCH\\QLCoffeenew.csproj|solutionrelative:quanlich\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2182E8-8D26-4472-BB89-75F0F3F016F7}|QuanLiCH\\QLCoffeenew.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\21CT114\\QuanLiCHCofee\\QuanLiCH\\quanlich\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A2182E8-8D26-4472-BB89-75F0F3F016F7}|QuanLiCH\\QLCoffeenew.csproj|solutionrelative:quanlich\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2182E8-8D26-4472-BB89-75F0F3F016F7}|QuanLiCH\\QLCoffeenew.csproj|C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\21CT114\\QuanLiCHCofee\\QuanLiCH\\quanlich\\faccoutprofile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A2182E8-8D26-4472-BB89-75F0F3F016F7}|QuanLiCH\\QLCoffeenew.csproj|solutionrelative:quanlich\\faccoutprofile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fAccoutProfile1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\21CT114\\QuanLiCHCofee\\QuanLiCH\\QuanLiCH\\fAccoutProfile1.cs",
+              "RelativeDocumentMoniker": "QuanLiCH\\fAccoutProfile1.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\QuanLiCHCofee\\QuanLiCHCofee\\QuanLiCH\\QuanLiCH\\fAccoutProfile1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\QuanLiCHCofee\\QuanLiCHCofee\\QuanLiCH\\QuanLiCH\\fAccoutProfile1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:45:57.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fTableManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\21CT114\\QuanLiCHCofee\\QuanLiCH\\QuanLiCH\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLiCH\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\QuanLiCHCofee\\QuanLiCHCofee\\QuanLiCH\\QuanLiCH\\fTableManager.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\QuanLiCHCofee\\QuanLiCHCofee\\QuanLiCH\\QuanLiCH\\fTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:39:43.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\21CT114\\QuanLiCHCofee\\QuanLiCH\\QuanLiCH\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLiCH\\frmAdmin.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\21CT114\\QuanLiCHCofee\\QuanLiCH\\QuanLiCH\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLiCH\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:38:44.397Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
